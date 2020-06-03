@@ -404,8 +404,15 @@ footer p{
 }
 
 section.footer-dev{
+	text-align: center;
 	padding: 20px 2%;
 	background-color: #eb2d2d;
+}
+
+section.footer-dev p{
+	color: white;
+	font-size: 22px;
+	font-style: italic;
 }
 
 @media screen and (max-width: 1200px){
