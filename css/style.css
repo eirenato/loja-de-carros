@@ -403,6 +403,11 @@ footer p{
 	font-style: italic;
 }
 
+section.footer-dev{
+	padding: 20px 2%;
+	background-color: #eb2d2d;
+}
+
 @media screen and (max-width: 1200px){
 	.half1{
 		text-align: center;
